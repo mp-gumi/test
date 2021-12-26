@@ -1,0 +1,25 @@
+.tweetButton {
+  background: #00aced;
+  color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  margin: 20px auto;
+}
+
+.tweetIcon {
+  align-self: center;
+}
+
+.tweetText {
+  display: flex;
+  align-items: center;
+  margin: 0 8px;
+}
+
+.wrapper {
+  padding: 20px;
+  text-align: center;
+}
